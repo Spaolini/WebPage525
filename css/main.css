@@ -1,0 +1,101 @@
+#Elon_head{
+  color:black;
+  font-family: sans-serif;
+  font-weight: 900;
+}
+#Elon{
+   position: absolute;left: 25px; top:210px;
+
+}
+#Elon_bio{
+  position: relative;width: 900px;left: 500px;
+   line-height: 1.5;
+}
+#About{
+  position: relative; right: 700px; top: 20px;
+}
+#TeslaMission{
+  position: absolute; left: 950px;
+  color: red;
+  font-family: cursive;
+}
+#Tesla
+{
+  position: absolute; left: 600px; top: 175px;
+  line-height: 1.5;
+  font-family: cursive;
+  color:red;
+}
+#Tesla_HQ{
+  position: relative;top: 175px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 6vh;
+    background-color: black;
+    font-family: sans-serif;
+    text-decoration: none
+}
+a:visited{
+  color: white;
+  text-decoration: none;
+}
+a:link{
+  color:white;
+  text-decoration: none;
+}
+iframe{
+  position: relative; left: 800px;top:0px
+}
+
+#Tesla_Table{
+position:relative;top:-300px;
+  margin-left: 120px;
+}
+#Starship{
+  position: absolute;top: 215px; left: 190px; font-size: 60px; font-family: inherit;
+}
+#starship_img{
+position: absolute; left:850px; top: 200px; border-radius: 10%;
+}
+.border{
+  border:1px solid white
+}
+#starship_des
+{
+  position: relative;left:100px;top:250px;
+  line-height: 2.0;
+}
+#Starlink{
+  position: relative; font-size:60px;left: 190px; top:500px;font-family: serif;
+}
+#Starlink_pic{
+  position: relative;left:850px; top: 270px; border-radius: 10%;
+}
+#Starlink_des{
+  position: relative;left:100px;top:130px;
+  line-height: 2.0;
+}
+#NeuraElon{
+  position: relative;left:9px; top: -150px;
+
+}
+#Section1{
+    position: relative;top: 5px; left: 595px; width: 900px;
+}
+#Section2
+{
+  position: relative;top: 15px; left: 595px; width: 900px;
+}
+#controversy_sec
+{
+  position:relative;top: -150px;
+}
+#cbs{
+  position: relative;top:-150px;left:150px;
+}
+#fortune{
+  position: relative;right: 487px;top:-200px;
